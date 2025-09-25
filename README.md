@@ -1,4 +1,4 @@
-# Experiment-6-8
+# Experiment-6-10
 This project is a Unity-based environment prototype designed to demonstrate natural landscapes, dynamic visual effects, and immersive environmental interactions. This project also includes particles system for fire, smoke, sparks, swarm, bubble mass. 
 This procedure is broken into four sequential phases, guiding the development of the Unity environment prototype, dynamic effects, and specialized particle systems.
 
